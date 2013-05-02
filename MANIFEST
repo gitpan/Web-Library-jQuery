@@ -1,0 +1,11 @@
+Changes
+lib/Web/Library/jQuery.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README.md
+share/1.9.1/js/jquery.min.js
+share/2.0.0/js/jquery.min.js
+t/basic.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
